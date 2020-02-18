@@ -1,2 +1,2 @@
 # webprog-example
-This is a blank project!
+This will soon be a full project!
